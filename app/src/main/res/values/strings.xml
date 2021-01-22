@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Hunger Halter</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="preference_file_name">Hunger Halter Preferences</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ques1">Q. Can I place order on call?</string>
+    <string name="Ans1">A. Sorry, we do not accept orders on call. however you can call us on +91 9660111869  for any help related to placing order.</string>
+    <string name="ques2">Q. How do I know my order is confirmed ?</string>
+    <string name="Ans2">A. We will send you a order confirmation email once we receive your order.</string>
+    <string name="ques3">Q. Can I pay online?</string>
+    <string name="Ans3">A. You can do NEFT transfer. We will be sharing the details via email.</string>
+    <string name="ques4">Q. What payment modes are accepted?</string>
+    <string name="Ans4">A. You can pay the cash or cheque at the time of delivery. We will soon be introducing more payment methods.</string>
+    <string name="ques5">Q. Will I get an invoice?</string>
+    <string name="Ans5">A. Yes. You will get an invoice from our suppliers at the time of delivery.</string>
+    <string name="ques6">Q. Why is my location is not serviceable?</string>
+    <string name="Ans6">A. We are currently live only in a few cities. We will be expanding soon.</string>
+</resources>
